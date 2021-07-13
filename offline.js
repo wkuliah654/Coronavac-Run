@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1626136185,
+	"version": 1626147565,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -55,7 +55,6 @@
 		"icon-128.png",
 		"icon-256.png",
 		"loading-logo.png",
-		"dbtext.xml",
-		"cordova.oauth2.js"
+		"dbtext.xml"
 	]
 }
